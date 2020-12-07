@@ -7,5 +7,5 @@
 <li>💬 Ask me about ... Anything</li>
 <li>📫 How to reach me: ... Linkedin @alonso-gabriel</li>
 <li>😄 Pronouns: ... He/Him</li>
-⚡ Fun fact: ... I love to code
+<li>⚡ Fun fact: ... I love to code</li>
 </ul>
