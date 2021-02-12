@@ -1,3 +1,4 @@
+### Hi there 👋
 ### My name is Gabriel Alonso and I'm a full stack developer!
 <ul>
 <li>🔭 I’m currently working on ... MatchMoney</li>
@@ -10,5 +11,11 @@
 <li>⚡ Fun fact: ... I love to code</li>
 </ul>
 
-Connect with me:
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 [linkedin]: https://www.linkedin.com/in/alonso-gabriel/
