@@ -9,3 +9,6 @@
 <li>😄 Pronouns: ... He/Him</li>
 <li>⚡ Fun fact: ... I love to code</li>
 </ul>
+
+Connect with me:
+[linkedin]: https://www.linkedin.com/in/alonso-gabriel/
