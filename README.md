@@ -1,4 +1,13 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.com/invite/Hh6tUDy">
+  <img align="left" alt="Gabriel Alonso Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alonso-gabriel/">
+  <img align="left" alt="Gabriel Alonso LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://dev-gabriel-alonso.medium.com/">
+  <img align="left" alt="Gabriel Alonso Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 ### My name is Gabriel Alonso and I'm a full stack developer!
 <ul>
 <li>🔭 I’m currently working on ... MatchMoney</li>
@@ -10,17 +19,6 @@
 <li>😄 Pronouns: ... He/Him</li>
 <li>⚡ Fun fact: ... I love to code</li>
 </ul>
-
-### Connect with me:
-
-
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/alonso-gabriel/
-[medium]: https://dev-gabriel-alonso.medium.com/
-
 
 <br />
 
