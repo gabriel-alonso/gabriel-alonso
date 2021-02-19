@@ -9,6 +9,8 @@
   <img align="left" alt="Gabriel Alonso Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=gabriel-alonso.gabriel-alonso)
+
 <br />
 
 ### My name is Gabriel Alonso and I'm a full stack developer!
