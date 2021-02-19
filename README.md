@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### My name is Gabriel Alonso and I'm a full stack developer!
 <ul>
 <li>🔭 I’m currently working on ... MatchMoney</li>
