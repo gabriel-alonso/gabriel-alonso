@@ -8,6 +8,9 @@
 <a href="https://dev-gabriel-alonso.medium.com/">
   <img align="left" alt="Gabriel Alonso Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+
+<br />
+
 ### My name is Gabriel Alonso and I'm a full stack developer!
 <ul>
 <li>🔭 I’m currently working on ... MatchMoney</li>
