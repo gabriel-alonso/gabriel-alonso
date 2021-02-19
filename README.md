@@ -46,17 +46,6 @@
 
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   7 hrs 17 mins   ████████████▓░░░░░░░░░░░░   51.28 % 
-C++          2 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
-CSS          1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-JSON         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Other        44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-```
-<!--END_SECTION:waka-->
-
-
 <div>
     <a href="https://github.com/gabriel-alonso?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-alonso&layout=compact" width="400" height="200"/>
