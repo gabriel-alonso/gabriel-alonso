@@ -43,3 +43,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   7 hrs 17 mins   ████████████▓░░░░░░░░░░░░   51.28 % 
+C++          2 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
+CSS          1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+JSON         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Other        44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+```
+<!--END_SECTION:waka-->
