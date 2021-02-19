@@ -25,7 +25,6 @@
 <li>⚡ Fun fact: ... I love to code;</li>
 </ul>
 
-<br />
 
 ### Languages and Tools:
 
