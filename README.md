@@ -10,7 +10,7 @@
 
 
 
-### My name is Gabriel Alonso and I'm a full stack developer!
+### My name is Gabriel Alonso and I'm a Full Stack Developer!
 <ul>
 <li>🔭 I’m currently working on ... my professional projects;</li>
 <li>🌱 I’m currently learning ... Javascript and Frameworks;</li>
