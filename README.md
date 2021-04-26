@@ -13,7 +13,7 @@
 ### My name is Gabriel Alonso and I'm a full stack developer!
 <ul>
 <li>🔭 I’m currently working on ... my professional projects;</li>
-<li>🌱 I’m currently learning ... PHP and Frameworks;</li>
+<li>🌱 I’m currently learning ... Javascript and Frameworks;</li>
 <li>👯 I’m looking to collaborate on ... Javascript and Frameworks;</li>
 <li>🤔 I’m looking for help with ... AWS;</li>
 <li>💬 Ask me about ... Anything;</li>
