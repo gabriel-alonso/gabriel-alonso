@@ -16,9 +16,7 @@
 <li>🌱 I’m currently learning ... Javascript and Frameworks;</li>
 <li>👯 I’m looking to collaborate on ... Javascript and Frameworks;</li>
 <li>🤔 I’m looking for help with ... AWS;</li>
-<li>💬 Ask me about ... Anything;</li>
 <li>📫 How to reach me: ... Linkedin @alonso-gabriel;</li>
-<li>😄 Pronouns: ... He/Him;</li>
 <li>⚡ Fun fact: ... I love to code;</li>
 </ul>
 
