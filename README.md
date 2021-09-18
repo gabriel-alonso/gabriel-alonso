@@ -37,6 +37,8 @@ Meu trabalho é projetar, criar e guiar o desenvolvimento de programas, aplicati
 <code><img height="20" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></code>
 <code><img height="20" src="http://mongodb-js.github.io/leaf/mongodb-leaf_512x512@2x.png"></code>
 <code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4"></code>
+
 
 
 <br />
