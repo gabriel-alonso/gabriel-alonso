@@ -34,8 +34,6 @@ Meu trabalho é projetar, criar e guiar o desenvolvimento de programas, aplicati
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png"></code>
 <code><img height="20" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></code>
 <code><img height="20" src="http://mongodb-js.github.io/leaf/mongodb-leaf_512x512@2x.png"></code>
