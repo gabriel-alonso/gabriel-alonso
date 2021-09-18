@@ -10,18 +10,19 @@
 
 
 
-### My name is Gabriel Alonso and I'm a Full Stack Developer!
+### Meu nome é Gabriel Alonso, trabalho com Desenvolvimento/Engenharia de Software.
+Sou Analista de Ciência de Dados no Itaú Unibanco.
+Meu trabalho é projetar, criar e guiar o desenvolvimento de programas, aplicativos, sistemas de forma que atendam aos requisitos e cumpram as funções determinadas. Gerenciar projetos ligados a software, arquitetar o design estrutural dos programas, realizar testes e administração do banco de dados.
+
 <ul>
-<li>🔭 I’m currently working on ... my professional projects;</li>
-<li>🌱 I’m currently learning ... Javascript and Frameworks;</li>
-<li>👯 I’m looking to collaborate on ... Javascript and Frameworks;</li>
-<li>🤔 I’m looking for help with ... AWS;</li>
-<li>📫 How to reach me: ... Linkedin @alonso-gabriel;</li>
-<li>⚡ Fun fact: ... I love to code;</li>
+<li>🔭 Desenvolvimento de softwares, sistemas e aplicativos</li>
+<li>🌱 Arquitetura de software</li>
+<li>👯 Gerenciamento de projetos</li>
+<li>🤔 Realização de Testes</li>
 </ul>
 
 
-### My Preferred Languages and Tools:
+### Minha Stack de Tecnologias são:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
