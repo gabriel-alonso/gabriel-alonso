@@ -43,7 +43,7 @@ Meu trabalho é projetar, criar e guiar o desenvolvimento de programas, aplicati
 
 <br />
 
-📈 My GitHub Stats
+📈 Aqui no meu repositório, a-baixo a estatistica com utilização das stacks.
 <div>
     <a href="https://github.com/gabriel-alonso?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-alonso&layout=compact" width="400" height="200"/>
