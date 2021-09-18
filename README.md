@@ -15,10 +15,10 @@ Sou Analista de Ciência de Dados no Itaú Unibanco.
 Meu trabalho é projetar, criar e guiar o desenvolvimento de programas, aplicativos, sistemas de forma que atendam aos requisitos e cumpram as funções determinadas. Além disso participar no gerenciamento do projeto, arquitetar o design estrutural dos programas, realizar testes e administração do banco de dados.
 
 <ul>
-<li>🔭 Desenvolvimento de softwares, sistemas e aplicativos</li>
-<li>🌱 Arquitetura de software</li>
-<li>👯 Gerenciamento de projetos</li>
-<li>🤔 Realização de Testes</li>
+<li>�✔️ Desenvolvimento de softwares, sistemas e aplicativos</li>
+<li>�✔️ Arquitetura de software</li>
+<li>�✔️ Gerenciamento de projetos</li>
+<li>�✔️ Realização de Testes</li>
 </ul>
 
 
