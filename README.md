@@ -2,9 +2,9 @@
 <a href="https://www.linkedin.com/in/alonso-gabriel/">
   <img align="left" alt="Gabriel Alonso LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://dev-gabriel-alonso.medium.com/">
+<!--<a href="https://dev-gabriel-alonso.medium.com/">
   <img align="left" alt="Gabriel Alonso Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a>-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gabriel-alonso.gabriel-alonso)
 
