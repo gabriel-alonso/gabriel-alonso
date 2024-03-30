@@ -13,7 +13,7 @@ Sou [Gabriel Alonso], um(a) [Engenheiro de Software] apaixonado(a) por tecnologi
 - 💡 Contribuições: Minhas contribuições para projetos de código aberto e comunidades tecnológicas.
 - 📚 Artigos e Tutoriais: Compartilho meu conhecimento através de artigos e tutoriais sobre temas relacionados à tecnologia.
 
-<br/><br/>
+<br/>
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true)
 
