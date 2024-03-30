@@ -6,7 +6,7 @@ Sou [Gabriel Alonso], um(a) [Engenheiro de Software] apaixonado(a) por tecnologi
 ## Sobre Mim
 - 🎓 Formado em Engenharia de Computação e cursando pós-graduação em Engenharia de Software na USP.
 - 💼 Trabalho no Itaú Unibanco.
-- 🔍 Interesses: Desenvolvimento web/mobile, Machine Learning, Segurança da Informação, DevOps e Análise de dados.
+- 🔍 Interesses: Engenharia de Software, Machine Learning, Segurança da Informação, DevOps e Big Data.
 
 ## O Que Você Encontrará Aqui
 - 🚀 Projetos: Uma variedade de projetos que desenvolvi, desde pequenos scripts até aplicações complexas.
