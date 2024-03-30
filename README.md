@@ -17,8 +17,9 @@ Sou [Gabriel Alonso], um(a) [Engenheiro de Software] apaixonado(a) por tecnologi
 
 <div>
   <a href="https://github.com/gabriel-alonso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-alonso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-alonso&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true"/>
+  </a>
 </div>
 
 
