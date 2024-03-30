@@ -22,14 +22,7 @@ Sou [Gabriel Alonso], um(a) [Engenheiro de Software] apaixonado(a) por tecnologi
   </a>
 </div>
 
-<div style="display: flex; justify-content: space-around;">
-  <div style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true"/>
-  </div>
-  <div style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true"/>
-  </div>
-</div>
+
 
 
 
