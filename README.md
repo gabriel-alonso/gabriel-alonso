@@ -22,12 +22,15 @@ Sou [Gabriel Alonso], um(a) [Engenheiro de Software] apaixonado(a) por tecnologi
   </a>
 </div>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding: 0; border: none;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true"/></td>
-    <td style="padding: 0; border: none;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true"/></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-around;">
+  <div style="flex: 1;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true"/>
+  </div>
+  <div style="flex: 1;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true"/>
+  </div>
+</div>
+
 
 
 ## Entre em Contato
