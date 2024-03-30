@@ -15,7 +15,13 @@ Sou [Gabriel Alonso], um(a) [Engenheiro de Software] apaixonado(a) por tecnologi
 
 <br/>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-alonso&show_icons=true&theme=dracula&count_private=true)
+<div>
+  <a href="https://github.com/gabriel-alonso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-alonso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-alonso&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 
 ## Entre em Contato
 - 📫 Você pode me contatar por e-mail em [dev.gabriel.alonso@gmail.com].
